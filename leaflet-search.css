@@ -30,7 +30,7 @@
 	float:left;
 	width:19px;
 	height:20px;	
-	background: url('search-icon.png') no-repeat -1px -1px;
+	background: url('images/search-icon.png') no-repeat -1px -1px;
 	background-color: rgba(255, 255, 255, 0.75);	
 	border-radius:.25em;
 }
